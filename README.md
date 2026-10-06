@@ -522,6 +522,5 @@ Program ini menggunakan modular dengan cara membagi setiap tugas menjadi fungsi 
 Praktikum modul 2 ini pada dasarnya mereview kembali logika mengenai array, pointer, serta fungsi dan prosedur yang sudah saya pahami sebelumnya, sehingga fokus utama saya di modul ini adalah beradaptasi dengan gaya penulisan sintaks C++ dan mengamati perbedaan cara kedua bahasa tersebut menangani memori secara langsung.
 
 ## Referensi
-[1] Triase. (2020). Diktat Edisi Revisi : STRUKTUR DATA. Medan: UNIVERSTAS ISLAM NEGERI SUMATERA UTARA MEDAN. 
-<br>[2] Indahyati, Uce., Rahmawati Yunianita. (2020). "BUKU AJAR ALGORITMA DAN PEMROGRAMAN DALAM BAHASA C++". Sidoarjo: Umsida Press. Diakses pada 10 Maret 2024 melalui https://doi.org/10.21070/2020/978-623-6833-67-4.
-<br>...
+[1] Fakultas Informatika. (2026). Modul 2 Pengenalan Bahasa C++ (Bagian Kedua). Telkom University.
+[2] Deitel, P., & Deitel, H. (2016). C++ How to Program (10th ed.). Pearson.
