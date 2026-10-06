@@ -365,17 +365,8 @@ int main() {
 ```
 ### Output Unguided 1 :
 
-##### Output 1
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 1_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-penjelasan unguided 1 
-Program mengimplementasikan array dua dimensi untuk merepresentasikan dua buah matriks 3x3 yaitu matrikA dan matrikB lalu program melakukan tiga operasi matematika dasar penjumlahan dan pengurangan dieksekusi menggunakan perulangan nested loop untuk menjumlahkan dan mengurangkan elemen pada indeks baris dan kolom yang sama lalu operasi perkalian matriks diselesaikan menggunakan perulangan tiga tingkat setiap elemen baris pada matriks pertama dikalikan dengan elemen kolom matriks kedua lalu disimpah ke dalam variabel hasil sebelum nilainya dicetak.
+##### Output 
+![Output Unguided 1](img/modul2-unguided1.png)
 
 ### 2. Berdasarkan guided pointer dan reference sebelumnya, buatlah keduanya dapat menukar nilai dari 3 variabel 
 
@@ -421,14 +412,8 @@ int main() {
 ```
 ### Output Unguided 2 :
 
-##### Output 1
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 2_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+##### Output
+![Output Unguided 2](img/modul2-unguided2.png)
 
 penjelasan unguided 2
 Program ini untuk menukar nilai dari tiga buah variabel x, y, dan z angka yang diinputkan lalu penukaran nilai dikerjakan menggunakan dua metode yaitu call by pointer dan call by reference di pointer fungsi menerima alamat memori dari variabel lalu menukar nilainya secara langsung dan pada reference fungsi membuat alias dari variabel aslinya untuk mengubah nilai dalam kedua fungsi tersebut nilai ditukar secara berurutan memutar di mana nilai x diganti menjadi y lalu nilai y diganti menjadi z dan nilai z diganti menjadi nilai x.
@@ -506,14 +491,9 @@ int main() {
 ```
 ### Output Unguided 3 :
 
-##### Output 1
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
-
-##### Output 2
-![Screenshot Output Unguided 3_2](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
+##### Output
+![Output Unguided 3 Bagian 1](img/modul2-unguided3.1.png)
+![Output Unguided 3 Bagian 2](img/modul2-unguided3.2.png)
 
 penjelasan unguided 3
 Program ini menggunakan modular dengan cara membagi setiap tugas menjadi fungsi fungsi void atau prosedur yaitu untuk menampilkan data array, mencari nilai maksimum, mencari nilai minimum, dan menghitung rata-rata di dalam fungsi utama main menggunakan struktur kontrol switch-case untuk menampilkan menu agar pengguna bisa memilih operasi mana yang ingin dijalankan lalu untuk mendapatkan jumlah array secara dinamis menggunakan rumus sizeof(arrA) / sizeof(arrA[0]) yang hasilnya disimpan sebagai parameter ukuran ke dalam setiap fungsi.
